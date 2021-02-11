@@ -1,4 +1,5 @@
 # Activity 8: Debugging 
+![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=main) ![Points badge](../../blob/badges/.github/badges/points.svg)
 
 https://asu-compmethodsphysics-phy494.github.io/ASU-PHY494/2021/02/11/05_Debugging/
 
